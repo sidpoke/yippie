@@ -8,11 +8,11 @@ This project needs to be compiled by yourself, i will not provide executables.
 Use NPM to build the app. You might additionally need CMake or Python for some Node modules.
 
 ## Big Thanks goes out to these modules:
-- tsparticles/tsparticles
+**tsparticles/tsparticles**
 confetti particles, javascript/html particle engine
 
-- SnosMe/uiohook-napi
+**SnosMe/uiohook-napi**
 input listener to shoot confetti when app is out of focus
 
-- rabbit-hole-syndrome/electron-forge-maker-portable
+**rabbit-hole-syndrome/electron-forge-maker-portable**
 packaging the app into a single executable file for Windows
