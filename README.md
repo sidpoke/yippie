@@ -9,10 +9,13 @@ Use NPM to build the app. You might additionally need CMake or Python for some N
 
 ## Big Thanks goes out to these modules:
 **tsparticles/tsparticles**
+
 confetti particles, javascript/html particle engine
 
 **SnosMe/uiohook-napi**
+
 input listener to shoot confetti when app is out of focus
 
 **rabbit-hole-syndrome/electron-forge-maker-portable**
+
 packaging the app into a single executable file for Windows
